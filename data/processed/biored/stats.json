@@ -1,0 +1,117 @@
+{
+  "train": {
+    "num_documents": 400,
+    "num_sentences": 4334,
+    "num_entities": 13351,
+    "entity_types": {
+      "GeneOrGeneProduct": 4430,
+      "DiseaseOrPhenotypicFeature": 3646,
+      "ChemicalEntity": 2853,
+      "OrganismTaxon": 1429,
+      "SequenceVariant": 890,
+      "CellLine": 103
+    },
+    "num_relations": 4178,
+    "relation_types": {
+      "Association": 2192,
+      "Positive_Correlation": 1089,
+      "Bind": 61,
+      "Negative_Correlation": 763,
+      "Comparison": 28,
+      "Conversion": 3,
+      "Cotreatment": 31,
+      "Drug_Interaction": 11
+    },
+    "example_entity": {
+      "pmid": "10491763",
+      "start": 0,
+      "end": 27,
+      "text": "Hepatocyte nuclear factor-6",
+      "type": "GeneOrGeneProduct",
+      "concept_id": "3175"
+    },
+    "example_relation": {
+      "pmid": "10491763",
+      "type": "Association",
+      "entity1_id": "3175",
+      "entity2_id": "D003924",
+      "novelty": "No"
+    }
+  },
+  "dev": {
+    "num_documents": 100,
+    "num_sentences": 1138,
+    "num_entities": 3533,
+    "entity_types": {
+      "DiseaseOrPhenotypicFeature": 982,
+      "GeneOrGeneProduct": 1087,
+      "ChemicalEntity": 822,
+      "OrganismTaxon": 370,
+      "SequenceVariant": 250,
+      "CellLine": 22
+    },
+    "num_relations": 1162,
+    "relation_types": {
+      "Positive_Correlation": 352,
+      "Association": 560,
+      "Negative_Correlation": 216,
+      "Bind": 19,
+      "Cotreatment": 10,
+      "Comparison": 5
+    },
+    "example_entity": {
+      "pmid": "14510914",
+      "start": 0,
+      "end": 25,
+      "text": "Congenital hypothyroidism",
+      "type": "DiseaseOrPhenotypicFeature",
+      "concept_id": "D003409"
+    },
+    "example_relation": {
+      "pmid": "14510914",
+      "type": "Positive_Correlation",
+      "entity1_id": "c|DEL|1314_1328|",
+      "entity2_id": "D003409",
+      "novelty": "Novel"
+    }
+  },
+  "test": {
+    "num_documents": 100,
+    "num_sentences": 1101,
+    "num_entities": 3535,
+    "entity_types": {
+      "GeneOrGeneProduct": 1180,
+      "DiseaseOrPhenotypicFeature": 917,
+      "OrganismTaxon": 393,
+      "ChemicalEntity": 754,
+      "SequenceVariant": 241,
+      "CellLine": 50
+    },
+    "num_relations": 1163,
+    "relation_types": {
+      "Association": 635,
+      "Positive_Correlation": 325,
+      "Negative_Correlation": 171,
+      "Comparison": 6,
+      "Bind": 9,
+      "Conversion": 1,
+      "Cotreatment": 14,
+      "Drug_Interaction": 2
+    },
+    "example_entity": {
+      "pmid": "15485686",
+      "start": 8,
+      "end": 13,
+      "text": "SCN5A",
+      "type": "GeneOrGeneProduct",
+      "concept_id": "6331"
+    },
+    "example_relation": {
+      "pmid": "15485686",
+      "type": "Association",
+      "entity1_id": "D001919",
+      "entity2_id": "6331",
+      "novelty": "Novel"
+    }
+  }
+}

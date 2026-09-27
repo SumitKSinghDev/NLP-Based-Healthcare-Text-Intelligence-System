@@ -1,0 +1,74 @@
+{
+  "train": {
+    "num_documents": 593,
+    "num_sentences": 5831,
+    "num_entities": 5145,
+    "entity_types": {
+      "Disease": 5145
+    },
+    "ncbi_categories": {
+      "DiseaseClass": 769,
+      "SpecificDisease": 2972,
+      "CompositeMention": 115,
+      "Modifier": 1289
+    },
+    "num_relations": 0,
+    "example_entity": {
+      "pmid": "10192393",
+      "start": 15,
+      "end": 26,
+      "text": "skin tumour",
+      "type": "Disease",
+      "ncbi_category": "DiseaseClass",
+      "mesh_id": "D012878"
+    }
+  },
+  "dev": {
+    "num_documents": 100,
+    "num_sentences": 959,
+    "num_entities": 787,
+    "entity_types": {
+      "Disease": 787
+    },
+    "ncbi_categories": {
+      "DiseaseClass": 126,
+      "SpecificDisease": 412,
+      "Modifier": 214,
+      "CompositeMention": 35
+    },
+    "num_relations": 0,
+    "example_entity": {
+      "pmid": "8808605",
+      "start": 154,
+      "end": 171,
+      "text": "enzyme deficiency",
+      "type": "Disease",
+      "ncbi_category": "DiseaseClass",
+      "mesh_id": " D008661"
+    }
+  },
+  "test": {
+    "num_documents": 100,
+    "num_sentences": 980,
+    "num_entities": 960,
+    "entity_types": {
+      "Disease": 960
+    },
+    "ncbi_categories": {
+      "Modifier": 264,
+      "SpecificDisease": 555,
+      "DiseaseClass": 121,
+      "CompositeMention": 20
+    },
+    "num_relations": 0,
+    "example_entity": {
+      "pmid": "9949209",
+      "start": 23,
+      "end": 39,
+      "text": "copper toxicosis",
+      "type": "Disease",
+      "ncbi_category": "Modifier",
+      "mesh_id": "OMIM:215600"
+    }
+  }
+}

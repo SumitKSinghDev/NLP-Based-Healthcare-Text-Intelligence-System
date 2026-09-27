@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: healthcare-nlp-intelligence
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/metrics
+    envVars:
+      - key: PORT
+        value: 8000

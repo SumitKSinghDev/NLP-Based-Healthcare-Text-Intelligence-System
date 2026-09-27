@@ -1,0 +1,3276 @@
+{
+  "hypertension": [
+    {
+      "disease": "Hypertensive",
+      "cooccurrence_count": 22,
+      "pmi": 4.018,
+      "confidence": 0.89
+    },
+    {
+      "disease": "Hypokalemia",
+      "cooccurrence_count": 5,
+      "pmi": 3.05,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Edema",
+      "cooccurrence_count": 5,
+      "pmi": 2.88,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Hypotension",
+      "cooccurrence_count": 5,
+      "pmi": 0.88,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Stroke",
+      "cooccurrence_count": 4,
+      "pmi": 2.028,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Subarachnoid Hemorrhage",
+      "cooccurrence_count": 3,
+      "pmi": 3.728,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Glomerulosclerosis",
+      "cooccurrence_count": 3,
+      "pmi": 2.854,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Renal Injury",
+      "cooccurrence_count": 3,
+      "pmi": 2.991,
+      "confidence": 0.73
+    }
+  ],
+  "nausea": [
+    {
+      "disease": "Gastroenteritis",
+      "cooccurrence_count": 36,
+      "pmi": 2.3,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Anorexia",
+      "cooccurrence_count": 4,
+      "pmi": 6.177,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Peptic Ulcer",
+      "cooccurrence_count": 28,
+      "pmi": 2.05,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Hepatic Dysfunction",
+      "cooccurrence_count": 3,
+      "pmi": 5.44,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Gastroparesis",
+      "cooccurrence_count": 22,
+      "pmi": 1.85,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Confusion",
+      "cooccurrence_count": 3,
+      "pmi": 3.674,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Hypotension",
+      "cooccurrence_count": 4,
+      "pmi": 2.007,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Neutropenia",
+      "cooccurrence_count": 3,
+      "pmi": 3.37,
+      "confidence": 0.74
+    }
+  ],
+  "weakness": [
+    {
+      "disease": "Myasthenia Gravis",
+      "cooccurrence_count": 2,
+      "pmi": 5.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Acidosis",
+      "cooccurrence_count": 2,
+      "pmi": 6.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Syndrome Of Inappropriate Secretion Of Antidiuretic Hormone",
+      "cooccurrence_count": 2,
+      "pmi": 6.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Aphasia",
+      "cooccurrence_count": 2,
+      "pmi": 6.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Ankle Contractures",
+      "cooccurrence_count": 2,
+      "pmi": 6.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "X-Linked Emery-Dreifuss Muscular Dystrophy",
+      "cooccurrence_count": 2,
+      "pmi": 5.48,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Emery-Dreifuss Muscular Dystrophy",
+      "cooccurrence_count": 2,
+      "pmi": 4.994,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Paralysis",
+      "cooccurrence_count": 2,
+      "pmi": 4.48,
+      "confidence": 0.73
+    }
+  ],
+  "pain": [
+    {
+      "disease": "Hyperalgesia",
+      "cooccurrence_count": 8,
+      "pmi": 4.087,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Hallucinations",
+      "cooccurrence_count": 4,
+      "pmi": 3.865,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Peripheral Neuropathy",
+      "cooccurrence_count": 4,
+      "pmi": 2.502,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Cardiotoxicity",
+      "cooccurrence_count": 4,
+      "pmi": 1.35,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Myocardial Infarction",
+      "cooccurrence_count": 4,
+      "pmi": 1.28,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Hypotension",
+      "cooccurrence_count": 4,
+      "pmi": 0.502,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Swelling",
+      "cooccurrence_count": 3,
+      "pmi": 4.257,
+      "confidence": 0.76
+    },
+    {
+      "disease": "Coronary Spasm",
+      "cooccurrence_count": 3,
+      "pmi": 4.257,
+      "confidence": 0.76
+    }
+  ],
+  "hypotension": [
+    {
+      "disease": "Bradycardia",
+      "cooccurrence_count": 18,
+      "pmi": 3.649,
+      "confidence": 0.87
+    },
+    {
+      "disease": "Hypotensive",
+      "cooccurrence_count": 15,
+      "pmi": 4.512,
+      "confidence": 0.88
+    },
+    {
+      "disease": "Tachycardia",
+      "cooccurrence_count": 7,
+      "pmi": 3.55,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 7,
+      "pmi": 1.48,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Hypertensive",
+      "cooccurrence_count": 6,
+      "pmi": 2.48,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Asystole",
+      "cooccurrence_count": 4,
+      "pmi": 4.257,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Stroke",
+      "cooccurrence_count": 4,
+      "pmi": 2.364,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Heart Failure",
+      "cooccurrence_count": 4,
+      "pmi": 2.421,
+      "confidence": 0.75
+    }
+  ],
+  "weight gain": [
+    {
+      "disease": "Eps",
+      "cooccurrence_count": 2,
+      "pmi": 6.605,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Extrapyramidal Symptom",
+      "cooccurrence_count": 2,
+      "pmi": 7.927,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Nephropathy",
+      "cooccurrence_count": 2,
+      "pmi": 3.757,
+      "confidence": 0.72
+    },
+    {
+      "disease": "Proteinuria",
+      "cooccurrence_count": 2,
+      "pmi": 3.569,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Agranulocytosis",
+      "cooccurrence_count": 1,
+      "pmi": 6.342,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Extrapyramidal Symptoms",
+      "cooccurrence_count": 1,
+      "pmi": 5.342,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tardive Dyskinesia",
+      "cooccurrence_count": 1,
+      "pmi": 5.342,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sexual Dysfunction",
+      "cooccurrence_count": 1,
+      "pmi": 5.342,
+      "confidence": 0.69
+    }
+  ],
+  "tachycardia": [
+    {
+      "disease": "Arrhythmias",
+      "cooccurrence_count": 7,
+      "pmi": 4.827,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Hypotension",
+      "cooccurrence_count": 7,
+      "pmi": 2.564,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Arrhythmia",
+      "cooccurrence_count": 6,
+      "pmi": 4.19,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Ventricular Fibrillation",
+      "cooccurrence_count": 5,
+      "pmi": 4.789,
+      "confidence": 0.81
+    },
+    {
+      "disease": "Ventricular Arrhythmias",
+      "cooccurrence_count": 5,
+      "pmi": 4.789,
+      "confidence": 0.81
+    },
+    {
+      "disease": "Bradycardia",
+      "cooccurrence_count": 5,
+      "pmi": 2.664,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Torsade De Pointes",
+      "cooccurrence_count": 4,
+      "pmi": 4.605,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Myocardial Infarction",
+      "cooccurrence_count": 4,
+      "pmi": 2.535,
+      "confidence": 0.75
+    }
+  ],
+  "fever": [
+    {
+      "disease": "Viral Infection",
+      "cooccurrence_count": 48,
+      "pmi": 2.45,
+      "confidence": 0.88
+    },
+    {
+      "disease": "Fmf",
+      "cooccurrence_count": 8,
+      "pmi": 6.432,
+      "confidence": 0.85
+    },
+    {
+      "disease": "Pneumonia",
+      "cooccurrence_count": 36,
+      "pmi": 2.3,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Respiratory Tract Infection",
+      "cooccurrence_count": 32,
+      "pmi": 2.15,
+      "confidence": 0.81
+    },
+    {
+      "disease": "Vasculitis",
+      "cooccurrence_count": 4,
+      "pmi": 5.11,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Recessive Disorder",
+      "cooccurrence_count": 3,
+      "pmi": 6.017,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Anemia",
+      "cooccurrence_count": 4,
+      "pmi": 3.525,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Influenza",
+      "cooccurrence_count": 22,
+      "pmi": 1.85,
+      "confidence": 0.76
+    }
+  ],
+  "migraine": [
+    {
+      "disease": "Guillain-Barr   Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Diseases Of Peripheral Nerves",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sensori-Motor Neuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Motor Neuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Peripheral Nerve Disease",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cranial Neuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Connective Tissue Disorders",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Neuropathies",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    }
+  ],
+  "blurred vision": [
+    {
+      "disease": "Depressive Illness",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressed",
+      "cooccurrence_count": 1,
+      "pmi": 6.632,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressive Disorder",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Dry Mouth",
+      "cooccurrence_count": 1,
+      "pmi": 7.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Infertility",
+      "cooccurrence_count": 1,
+      "pmi": 7.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Retinal Vein Occlusion",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Thromboembolic",
+      "cooccurrence_count": 1,
+      "pmi": 6.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Visual Disturbance",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "chest pain": [
+    {
+      "disease": "Coronary Spasm",
+      "cooccurrence_count": 3,
+      "pmi": 6.723,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Myocardial Infarction",
+      "cooccurrence_count": 4,
+      "pmi": 3.746,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Pericarditis",
+      "cooccurrence_count": 20,
+      "pmi": 1.9,
+      "confidence": 0.76
+    },
+    {
+      "disease": "Cardiotoxicity",
+      "cooccurrence_count": 3,
+      "pmi": 3.402,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Variant Angina",
+      "cooccurrence_count": 2,
+      "pmi": 7.138,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Coronary Artery Spasm",
+      "cooccurrence_count": 2,
+      "pmi": 6.554,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Coronary Stenosis",
+      "cooccurrence_count": 2,
+      "pmi": 6.138,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Coronary Vasospasm",
+      "cooccurrence_count": 2,
+      "pmi": 6.138,
+      "confidence": 0.74
+    }
+  ],
+  "edema": [
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 7,
+      "pmi": 2.714,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Inflammation",
+      "cooccurrence_count": 5,
+      "pmi": 3.763,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Cystitis",
+      "cooccurrence_count": 4,
+      "pmi": 4.392,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Hypertensive",
+      "cooccurrence_count": 3,
+      "pmi": 2.714,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Allergic Reaction",
+      "cooccurrence_count": 2,
+      "pmi": 5.714,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Retinal Vasculitis",
+      "cooccurrence_count": 2,
+      "pmi": 6.299,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Loss Of Vision",
+      "cooccurrence_count": 2,
+      "pmi": 5.714,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Malignant Glioma",
+      "cooccurrence_count": 2,
+      "pmi": 6.299,
+      "confidence": 0.74
+    }
+  ],
+  "seizure": [
+    {
+      "disease": "Status Epilepticus",
+      "cooccurrence_count": 8,
+      "pmi": 4.51,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Epileptic",
+      "cooccurrence_count": 4,
+      "pmi": 3.925,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Encephalopathy",
+      "cooccurrence_count": 3,
+      "pmi": 2.893,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Epilepsy",
+      "cooccurrence_count": 3,
+      "pmi": 2.716,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Overdose",
+      "cooccurrence_count": 3,
+      "pmi": 2.893,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Convulsions",
+      "cooccurrence_count": 3,
+      "pmi": 2.609,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Idiopathic Epilepsy",
+      "cooccurrence_count": 2,
+      "pmi": 5.832,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hypothermic",
+      "cooccurrence_count": 2,
+      "pmi": 5.832,
+      "confidence": 0.74
+    }
+  ],
+  "headache": [
+    {
+      "disease": "Migraine",
+      "cooccurrence_count": 5,
+      "pmi": 5.686,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Tension Headache",
+      "cooccurrence_count": 30,
+      "pmi": 2.2,
+      "confidence": 0.81
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 5,
+      "pmi": 2.616,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Meningitis",
+      "cooccurrence_count": 18,
+      "pmi": 1.8,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Flushing",
+      "cooccurrence_count": 2,
+      "pmi": 5.364,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hypertensive Encephalopathy",
+      "cooccurrence_count": 14,
+      "pmi": 1.65,
+      "confidence": 0.72
+    },
+    {
+      "disease": "Diabetes Mellitus",
+      "cooccurrence_count": 2,
+      "pmi": 3.438,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Edema",
+      "cooccurrence_count": 2,
+      "pmi": 3.516,
+      "confidence": 0.71
+    }
+  ],
+  "tingling": [
+    {
+      "disease": "Tetany",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypocalcemia",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hyperlipidemia",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depression",
+      "cooccurrence_count": 1,
+      "pmi": 5.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Muscle Contractions",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Atypical Sensations",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sunburn",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 1,
+      "pmi": 3.994,
+      "confidence": 0.67
+    }
+  ],
+  "dizziness": [
+    {
+      "disease": "Orthostatic Hypotension",
+      "cooccurrence_count": 34,
+      "pmi": 2.35,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Vestibular Neuritis",
+      "cooccurrence_count": 28,
+      "pmi": 2.15,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 4,
+      "pmi": 3.409,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Cardiac Arrhythmia",
+      "cooccurrence_count": 24,
+      "pmi": 1.95,
+      "confidence": 0.76
+    },
+    {
+      "disease": "Dementia",
+      "cooccurrence_count": 2,
+      "pmi": 5.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Flushing",
+      "cooccurrence_count": 2,
+      "pmi": 6.48,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hypoglycemia",
+      "cooccurrence_count": 20,
+      "pmi": 1.8,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Edema",
+      "cooccurrence_count": 2,
+      "pmi": 4.632,
+      "confidence": 0.73
+    }
+  ],
+  "paresthesia": [
+    {
+      "disease": "Polyneuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Quadriparesis",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ataxia",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Overdose",
+      "cooccurrence_count": 1,
+      "pmi": 5.863,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Vocal Fold Palsy",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hoarseness",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Giddiness",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Peripheral Neuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 6.216,
+      "confidence": 0.69
+    }
+  ],
+  "vomiting": [
+    {
+      "disease": "Gastroenteritis",
+      "cooccurrence_count": 40,
+      "pmi": 2.45,
+      "confidence": 0.85
+    },
+    {
+      "disease": "Bowel Obstruction",
+      "cooccurrence_count": 26,
+      "pmi": 2.05,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 3,
+      "pmi": 4.686,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Food Poisoning",
+      "cooccurrence_count": 22,
+      "pmi": 1.9,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Neutropenia",
+      "cooccurrence_count": 3,
+      "pmi": 3.994,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Hepatic Failure",
+      "cooccurrence_count": 2,
+      "pmi": 5.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatic Injury",
+      "cooccurrence_count": 2,
+      "pmi": 4.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatic Dysfunction",
+      "cooccurrence_count": 2,
+      "pmi": 5.48,
+      "confidence": 0.74
+    }
+  ],
+  "diarrhea": [
+    {
+      "disease": "Hand-Foot Syndrome",
+      "cooccurrence_count": 3,
+      "pmi": 7.386,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Stomatitis",
+      "cooccurrence_count": 3,
+      "pmi": 7.064,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Flatulence",
+      "cooccurrence_count": 2,
+      "pmi": 7.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Vomitus",
+      "cooccurrence_count": 2,
+      "pmi": 7.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Toxicities",
+      "cooccurrence_count": 2,
+      "pmi": 4.48,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Renal And Kidney Disease",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sinusitis",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hiv-1 Infection",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    }
+  ],
+  "confusion": [
+    {
+      "disease": "Delirium",
+      "cooccurrence_count": 3,
+      "pmi": 5.48,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Coma",
+      "cooccurrence_count": 2,
+      "pmi": 5.632,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Cancers",
+      "cooccurrence_count": 2,
+      "pmi": 3.31,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Encephalopathy",
+      "cooccurrence_count": 2,
+      "pmi": 3.693,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Neurotoxicity",
+      "cooccurrence_count": 2,
+      "pmi": 3.172,
+      "confidence": 0.7
+    },
+    {
+      "disease": "Seizure",
+      "cooccurrence_count": 2,
+      "pmi": 2.489,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Disorientation",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Gastric Adenocarcinoma",
+      "cooccurrence_count": 1,
+      "pmi": 5.632,
+      "confidence": 0.69
+    }
+  ],
+  "erythema": [
+    {
+      "disease": "Septicemia",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypersensitivity Myocarditis",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Congestive Heart Failure",
+      "cooccurrence_count": 1,
+      "pmi": 5.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Allergy",
+      "cooccurrence_count": 1,
+      "pmi": 7.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Drug-Induced Allergic Reaction",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Myocarditis",
+      "cooccurrence_count": 1,
+      "pmi": 6.257,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Painful",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Apl",
+      "cooccurrence_count": 1,
+      "pmi": 7.48,
+      "confidence": 0.69
+    }
+  ],
+  "tremor": [
+    {
+      "disease": "Parkinson'S Disease",
+      "cooccurrence_count": 3,
+      "pmi": 3.916,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Dysarthria",
+      "cooccurrence_count": 2,
+      "pmi": 6.579,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Bradykinesia",
+      "cooccurrence_count": 2,
+      "pmi": 6.257,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Seizure",
+      "cooccurrence_count": 2,
+      "pmi": 2.851,
+      "confidence": 0.7
+    },
+    {
+      "disease": "Bipolar",
+      "cooccurrence_count": 1,
+      "pmi": 5.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cognitive And Functional Deficits",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cognitive, Motivational, Or Creative Deficits",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cognitive And Functional Impairments",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    }
+  ],
+  "convulsions": [
+    {
+      "disease": "Seizures",
+      "cooccurrence_count": 10,
+      "pmi": 3.299,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Convulsive",
+      "cooccurrence_count": 8,
+      "pmi": 5.927,
+      "confidence": 0.85
+    },
+    {
+      "disease": "Seizure",
+      "cooccurrence_count": 5,
+      "pmi": 2.98,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Epilepsy",
+      "cooccurrence_count": 3,
+      "pmi": 3.271,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Tremor",
+      "cooccurrence_count": 2,
+      "pmi": 3.686,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Overdose",
+      "cooccurrence_count": 2,
+      "pmi": 2.863,
+      "confidence": 0.7
+    },
+    {
+      "disease": "Depression",
+      "cooccurrence_count": 2,
+      "pmi": 2.216,
+      "confidence": 0.68
+    },
+    {
+      "disease": "Convulsants",
+      "cooccurrence_count": 1,
+      "pmi": 6.386,
+      "confidence": 0.69
+    }
+  ],
+  "altered mental status": [
+    {
+      "disease": "Seizures",
+      "cooccurrence_count": 2,
+      "pmi": 4.977,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Coma",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Confusion",
+      "cooccurrence_count": 1,
+      "pmi": 6.299,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Neurological Complications",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Nocturnal Leg Cramps",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Epilepsy",
+      "cooccurrence_count": 1,
+      "pmi": 5.686,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Visual Hallucinations",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    }
+  ],
+  "numbness": [
+    {
+      "disease": "Neuropathy",
+      "cooccurrence_count": 2,
+      "pmi": 6.299,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Peripheral Neuropathy",
+      "cooccurrence_count": 2,
+      "pmi": 6.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Radiculopathy",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Loss Of Sensation",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Lower Extremity Weakness",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Neurologic Deterioration",
+      "cooccurrence_count": 1,
+      "pmi": 7.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cauda Equina Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paraesthesia",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    }
+  ],
+  "fatigue": [
+    {
+      "disease": "Chronic Kidney Disease",
+      "cooccurrence_count": 35,
+      "pmi": 2.25,
+      "confidence": 0.81
+    },
+    {
+      "disease": "Hypothyroidism",
+      "cooccurrence_count": 30,
+      "pmi": 2.1,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Myelosuppression",
+      "cooccurrence_count": 2,
+      "pmi": 6.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Atrial Fibrillation",
+      "cooccurrence_count": 2,
+      "pmi": 5.48,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Stomatitis",
+      "cooccurrence_count": 2,
+      "pmi": 7.064,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Heart Failure",
+      "cooccurrence_count": 22,
+      "pmi": 1.8,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Anemia",
+      "cooccurrence_count": 2,
+      "pmi": 4.48,
+      "confidence": 0.73
+    },
+    {
+      "disease": "Thrombocytopenia",
+      "cooccurrence_count": 2,
+      "pmi": 4.064,
+      "confidence": 0.72
+    }
+  ],
+  "dyspnea": [
+    {
+      "disease": "Depressed Mood",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tumour",
+      "cooccurrence_count": 1,
+      "pmi": 4.943,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Multiple Myeloma",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Somnolence",
+      "cooccurrence_count": 1,
+      "pmi": 6.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Lymphomas",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Non-Hodgkin Lymphomas",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Myelosuppression",
+      "cooccurrence_count": 1,
+      "pmi": 6.632,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Neuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 5.714,
+      "confidence": 0.69
+    }
+  ],
+  "angina": [
+    {
+      "disease": "Coronary Artery Disease",
+      "cooccurrence_count": 5,
+      "pmi": 5.616,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Myocardial Ischemia",
+      "cooccurrence_count": 3,
+      "pmi": 5.57,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Ischemia",
+      "cooccurrence_count": 3,
+      "pmi": 5.57,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Coronary Spasm",
+      "cooccurrence_count": 3,
+      "pmi": 7.271,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Coronary Artery Spasm",
+      "cooccurrence_count": 2,
+      "pmi": 7.101,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Cardiac Toxicity",
+      "cooccurrence_count": 2,
+      "pmi": 4.779,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Myocardial Infarction",
+      "cooccurrence_count": 2,
+      "pmi": 3.294,
+      "confidence": 0.71
+    },
+    {
+      "disease": "Depression",
+      "cooccurrence_count": 2,
+      "pmi": 3.516,
+      "confidence": 0.71
+    }
+  ],
+  "swelling": [
+    {
+      "disease": "Gastrointestinal (Gi) Bleeding",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 4.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Juvenile Rheumatoid Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tenderness",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Fecal Occult Blood",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tender Joints",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Morning Stiffness",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Structural And Functional Impairment Of Mitochondria",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    }
+  ],
+  "severe headache": [
+    {
+      "disease": "Gastrointestinal (Gi) Bleeding",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Juvenile Rheumatoid Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tenderness",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Fecal Occult Blood",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Swelling",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tender Joints",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Morning Stiffness",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    }
+  ],
+  "stiffness": [
+    {
+      "disease": "Gastrointestinal (Gi) Bleeding",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 5.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Juvenile Rheumatoid Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tenderness",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Fecal Occult Blood",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Swelling",
+      "cooccurrence_count": 1,
+      "pmi": 7.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tender Joints",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Renal Insufficiency",
+      "cooccurrence_count": 1,
+      "pmi": 5.605,
+      "confidence": 0.69
+    }
+  ],
+  "abdominal pain": [
+    {
+      "disease": "Acute Appendicitis",
+      "cooccurrence_count": 42,
+      "pmi": 2.5,
+      "confidence": 0.86
+    },
+    {
+      "disease": "Gastroenteritis",
+      "cooccurrence_count": 38,
+      "pmi": 2.35,
+      "confidence": 0.83
+    },
+    {
+      "disease": "Peptic Ulcer Disease",
+      "cooccurrence_count": 30,
+      "pmi": 2.1,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Cholecystitis",
+      "cooccurrence_count": 26,
+      "pmi": 1.95,
+      "confidence": 0.76
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 2,
+      "pmi": 5.101,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Purpura",
+      "cooccurrence_count": 2,
+      "pmi": 7.216,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Anorexia",
+      "cooccurrence_count": 2,
+      "pmi": 6.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Diarrhoea",
+      "cooccurrence_count": 2,
+      "pmi": 7.216,
+      "confidence": 0.74
+    }
+  ],
+  "weight loss": [
+    {
+      "disease": "Myelosuppression",
+      "cooccurrence_count": 2,
+      "pmi": 5.895,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Obesity",
+      "cooccurrence_count": 2,
+      "pmi": 4.977,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Impaired Memory",
+      "cooccurrence_count": 1,
+      "pmi": 7.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Enuresis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Irritability",
+      "cooccurrence_count": 1,
+      "pmi": 5.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ataxia",
+      "cooccurrence_count": 1,
+      "pmi": 5.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Agoraphobia",
+      "cooccurrence_count": 1,
+      "pmi": 6.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Panic Disorder",
+      "cooccurrence_count": 1,
+      "pmi": 5.743,
+      "confidence": 0.69
+    }
+  ],
+  "constipation": [
+    {
+      "disease": "Chronic Pain",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Constipating",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Irritable Bowel Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ibs",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Disordered Gastrointestinal Motility",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Diarrhoea",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Somnolence",
+      "cooccurrence_count": 1,
+      "pmi": 5.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Renal Cell Cancer",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    }
+  ],
+  "muscle pain": [
+    {
+      "disease": "Nociceptive Muscle",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Temporomandibular Disorders",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Painful Muscle",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "malaise": [
+    {
+      "disease": "Hepatitis",
+      "cooccurrence_count": 2,
+      "pmi": 5.632,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 2,
+      "pmi": 6.686,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatic Injury",
+      "cooccurrence_count": 2,
+      "pmi": 7.386,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatic Dysfunction",
+      "cooccurrence_count": 2,
+      "pmi": 8.064,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatotoxicity",
+      "cooccurrence_count": 2,
+      "pmi": 5.686,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Tachycardia",
+      "cooccurrence_count": 1,
+      "pmi": 5.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arterial Hypotension",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Flushing Of The Face",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    }
+  ],
+  "syncope": [
+    {
+      "disease": "Bradycardia",
+      "cooccurrence_count": 2,
+      "pmi": 4.216,
+      "confidence": 0.72
+    },
+    {
+      "disease": "Prolonged Q-T Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Atrial Flutter",
+      "cooccurrence_count": 1,
+      "pmi": 6.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ventricular Fibrillation",
+      "cooccurrence_count": 1,
+      "pmi": 5.342,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Q-T Prolongation",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Premature Ventricular Contractions",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Prolongation Of The Qt Interval",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Prolongation Of Qt Interval",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "wheezing": [
+    {
+      "disease": "Subarachnoid Hemorrhage",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 1,
+      "pmi": 4.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cardiac Arrest",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Allergic Reaction",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Pulmonary Edema",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Intracranial Bleeding",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Respiratory Distress",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "rash": [
+    {
+      "disease": "Contact Dermatitis",
+      "cooccurrence_count": 38,
+      "pmi": 2.4,
+      "confidence": 0.84
+    },
+    {
+      "disease": "Drug Eruption",
+      "cooccurrence_count": 32,
+      "pmi": 2.2,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Eosinophilia",
+      "cooccurrence_count": 3,
+      "pmi": 6.064,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Arthralgia",
+      "cooccurrence_count": 3,
+      "pmi": 6.257,
+      "confidence": 0.78
+    },
+    {
+      "disease": "Urticaria",
+      "cooccurrence_count": 28,
+      "pmi": 2.05,
+      "confidence": 0.77
+    },
+    {
+      "disease": "Psoriasis",
+      "cooccurrence_count": 24,
+      "pmi": 1.9,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 2,
+      "pmi": 4.779,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Interstitial Nephritis",
+      "cooccurrence_count": 2,
+      "pmi": 5.158,
+      "confidence": 0.74
+    }
+  ],
+  "severe pain": [
+    {
+      "disease": "Polyneuropathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Foot Deformities",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hyperparathyroidism",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Intermittent Claudication",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Morton'S Neuralgia",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Stress Fractures",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Osteoporosis",
+      "cooccurrence_count": 1,
+      "pmi": 7.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Gout",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "anorexia": [
+    {
+      "disease": "Cholestasis",
+      "cooccurrence_count": 1,
+      "pmi": 5.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 1,
+      "pmi": 5.686,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Massive Hepatic Necrosis",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hepatic Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hepatic Injury",
+      "cooccurrence_count": 1,
+      "pmi": 6.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Fatty Change",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hepatomegaly",
+      "cooccurrence_count": 1,
+      "pmi": 6.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acute Hepatitis",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    }
+  ],
+  "pruritus": [
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 2,
+      "pmi": 6.686,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Cholestasis",
+      "cooccurrence_count": 2,
+      "pmi": 6.579,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hypereosinophilia",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Apnea",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Myoclonus",
+      "cooccurrence_count": 1,
+      "pmi": 6.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "(Insulin-Dependent) Diabetes Mellitus",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Gastrointestinal (Gi) Toxicity",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Gi Toxicity",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    }
+  ],
+  "sweating": [
+    {
+      "disease": "Hyperhidrosis",
+      "cooccurrence_count": 2,
+      "pmi": 9.801,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Heart Failure",
+      "cooccurrence_count": 1,
+      "pmi": 5.158,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Bronchorrhoea",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Asystole",
+      "cooccurrence_count": 1,
+      "pmi": 6.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Respiratory Insufficiency",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Dyspnoea",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Proteus Mirabilis Infection",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Bronchospasm",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    }
+  ],
+  "somnolence": [
+    {
+      "disease": "Phonophobia",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Migraine",
+      "cooccurrence_count": 1,
+      "pmi": 5.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Photophobia",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Metabolic-Endocrine Failure",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acidosis",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Polydipsia",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ketosis",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Lactic Acidosis",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    }
+  ],
+  "shortness of breath": [
+    {
+      "disease": "Congestive Heart Failure",
+      "cooccurrence_count": 46,
+      "pmi": 2.65,
+      "confidence": 0.89
+    },
+    {
+      "disease": "Asthma Exacerbation",
+      "cooccurrence_count": 40,
+      "pmi": 2.45,
+      "confidence": 0.85
+    },
+    {
+      "disease": "Pulmonary Embolism",
+      "cooccurrence_count": 32,
+      "pmi": 2.2,
+      "confidence": 0.8
+    },
+    {
+      "disease": "Pneumonia",
+      "cooccurrence_count": 29,
+      "pmi": 2.05,
+      "confidence": 0.78
+    },
+    {
+      "disease": "COPD",
+      "cooccurrence_count": 25,
+      "pmi": 1.9,
+      "confidence": 0.75
+    },
+    {
+      "disease": "Hemolytic Anemia",
+      "cooccurrence_count": 1,
+      "pmi": 6.927,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Reflux Esophagitis",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Peptic Ulcer Disease",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    }
+  ],
+  "lethargy": [
+    {
+      "disease": "Hemolytic Anemia",
+      "cooccurrence_count": 1,
+      "pmi": 4.927,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Reflux Esophagitis",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Peptic Ulcer Disease",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Zollinger-Ellison Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Somnolence",
+      "cooccurrence_count": 1,
+      "pmi": 6.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Metabolic-Endocrine Failure",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acidosis",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Polydipsia",
+      "cooccurrence_count": 1,
+      "pmi": 7.386,
+      "confidence": 0.69
+    }
+  ],
+  "hematuria": [
+    {
+      "disease": "Bleeding",
+      "cooccurrence_count": 2,
+      "pmi": 5.895,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Wegener'S Granulomatosis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hemorrhage",
+      "cooccurrence_count": 1,
+      "pmi": 5.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Confusion",
+      "cooccurrence_count": 1,
+      "pmi": 4.977,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Leukopenia",
+      "cooccurrence_count": 1,
+      "pmi": 6.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Carcinoma",
+      "cooccurrence_count": 1,
+      "pmi": 5.895,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Carcinomas Of The Urinary Bladder",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Urinary Tract Cancer",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    }
+  ],
+  "vertigo": [
+    {
+      "disease": "Tinnitus",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ist",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Idiopathic Subjective Tinnitus",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "myalgia": [
+    {
+      "disease": "Muscle Fasciculation",
+      "cooccurrence_count": 2,
+      "pmi": 9.064,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Fasciculation",
+      "cooccurrence_count": 2,
+      "pmi": 8.48,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Fasciculations",
+      "cooccurrence_count": 1,
+      "pmi": 7.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Jaw Stiffness",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Apnoea",
+      "cooccurrence_count": 1,
+      "pmi": 6.743,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Prolonged Jaw Rigidity",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Chronic Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Familial Mediterranean Fever",
+      "cooccurrence_count": 1,
+      "pmi": 5.895,
+      "confidence": 0.69
+    }
+  ],
+  "loss of appetite": [
+    {
+      "disease": "Dehydration",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressive",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressive Symptoms",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Psychiatric",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Extrapyramidal Symptoms",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Insomnia",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Psychomotor Retardation",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Muscle Rigidity",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "insomnia": [
+    {
+      "disease": "Dehydration",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressive",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Depressive Symptoms",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Psychiatric",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Extrapyramidal Symptoms",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Psychomotor Retardation",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Muscle Rigidity",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tremors",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    }
+  ],
+  "pharyngitis": [
+    {
+      "disease": "Hiccups",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    }
+  ],
+  "arthralgia": [
+    {
+      "disease": "Renal Involvement",
+      "cooccurrence_count": 2,
+      "pmi": 9.386,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Renal Failure",
+      "cooccurrence_count": 2,
+      "pmi": 5.177,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Skin Rash",
+      "cooccurrence_count": 2,
+      "pmi": 8.064,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Muscular Weakness",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Myositis",
+      "cooccurrence_count": 1,
+      "pmi": 7.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Affection Of The Musculoskeletal System",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Systemic Lupus Erythematosus",
+      "cooccurrence_count": 1,
+      "pmi": 5.686,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Polymyositis",
+      "cooccurrence_count": 1,
+      "pmi": 7.386,
+      "confidence": 0.69
+    }
+  ],
+  "hemoptysis": [
+    {
+      "disease": "Sudden Death",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Asystole",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cardiac Disease",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Renal Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.177,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Bradycardia",
+      "cooccurrence_count": 1,
+      "pmi": 5.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypotension",
+      "cooccurrence_count": 1,
+      "pmi": 5.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Ventricular Arrhythmia",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Pulmonary-Renal Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "skin rash": [
+    {
+      "disease": "Eosinophilia",
+      "cooccurrence_count": 2,
+      "pmi": 7.064,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Interstitial Nephritis",
+      "cooccurrence_count": 2,
+      "pmi": 6.743,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Arthritis",
+      "cooccurrence_count": 2,
+      "pmi": 6.48,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Arthralgia",
+      "cooccurrence_count": 2,
+      "pmi": 7.257,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Hepatic Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Liver Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.48,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Pure Red Cell Aplasia",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Lymphadenopathy",
+      "cooccurrence_count": 1,
+      "pmi": 7.064,
+      "confidence": 0.69
+    }
+  ],
+  "diaphoresis": [
+    {
+      "disease": "Salivation",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paralysis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paralyzed",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Rhabdomyolysis",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tremors",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Thrombocytopenia",
+      "cooccurrence_count": 1,
+      "pmi": 6.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Confusion",
+      "cooccurrence_count": 1,
+      "pmi": 7.299,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypoventilation",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    }
+  ],
+  "shivering": [
+    {
+      "disease": "Salivation",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paralysis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paralyzed",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Rhabdomyolysis",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tremors",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Thrombocytopenia",
+      "cooccurrence_count": 1,
+      "pmi": 6.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Confusion",
+      "cooccurrence_count": 1,
+      "pmi": 7.299,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypoventilation",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    }
+  ],
+  "itching": [
+    {
+      "disease": "Hyperthyroidism",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 1,
+      "pmi": 7.686,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Pruritus",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Icterus",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cholestatic Jaundice",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hyperbilirubinemia",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cholestasis",
+      "cooccurrence_count": 1,
+      "pmi": 7.579,
+      "confidence": 0.69
+    }
+  ],
+  "peripheral edema": [
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 1,
+      "pmi": 4.994,
+      "confidence": 0.69
+    }
+  ],
+  "cough": [
+    {
+      "disease": "Bronchitis",
+      "cooccurrence_count": 42,
+      "pmi": 2.55,
+      "confidence": 0.86
+    },
+    {
+      "disease": "Pneumonia",
+      "cooccurrence_count": 39,
+      "pmi": 2.4,
+      "confidence": 0.83
+    },
+    {
+      "disease": "Upper Respiratory Infection",
+      "cooccurrence_count": 31,
+      "pmi": 2.1,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Asthma",
+      "cooccurrence_count": 28,
+      "pmi": 1.95,
+      "confidence": 0.77
+    },
+    {
+      "disease": "COPD",
+      "cooccurrence_count": 20,
+      "pmi": 1.75,
+      "confidence": 0.74
+    },
+    {
+      "disease": "Edema",
+      "cooccurrence_count": 1,
+      "pmi": 7.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 1,
+      "pmi": 4.994,
+      "confidence": 0.69
+    }
+  ],
+  "asthenia": [
+    {
+      "disease": "Irritability",
+      "cooccurrence_count": 1,
+      "pmi": 8.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Abortion",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Water Intoxication",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Abortions",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "substernal chest pain": [
+    {
+      "disease": "Broken Heart Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acute Coronary Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Coronary Artery Vasospasm",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Status Migrainosus",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Takotsubo Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Migraines",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Mitral Valve Prolapse",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Apical Ballooning Syndrome",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    }
+  ],
+  "loss of taste": [
+    {
+      "disease": "Hypertension",
+      "cooccurrence_count": 1,
+      "pmi": 4.994,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Dysguesia",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "palpitations": [
+    {
+      "disease": "Asthma",
+      "cooccurrence_count": 1,
+      "pmi": 6.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Tremor",
+      "cooccurrence_count": 1,
+      "pmi": 6.101,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Asthmatics",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Asthmatic",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Panic Disorders",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Anxiety Disorders",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Panic Attacks",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Agoraphobia",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    }
+  ],
+  "chills": [
+    {
+      "disease": "Pulmonary Tuberculosis",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acute Renal Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.177,
+      "confidence": 0.69
+    }
+  ],
+  "rigors": [
+    {
+      "disease": "Pulmonary Tuberculosis",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Acute Renal Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.177,
+      "confidence": 0.69
+    }
+  ],
+  "sore throat": [
+    {
+      "disease": "Pharyngitis",
+      "cooccurrence_count": 44,
+      "pmi": 2.6,
+      "confidence": 0.88
+    },
+    {
+      "disease": "Tonsillitis",
+      "cooccurrence_count": 36,
+      "pmi": 2.35,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Upper Respiratory Infection",
+      "cooccurrence_count": 30,
+      "pmi": 2.15,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Gustatory Hyperhidrosis",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sweating",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Hyperhidrosis",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Dry Mouth",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    }
+  ],
+  "high fever": [
+    {
+      "disease": "Heart Diseases",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Jaundice",
+      "cooccurrence_count": 1,
+      "pmi": 7.686,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Sinoatrial Block",
+      "cooccurrence_count": 1,
+      "pmi": 9.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arrhythmic",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Premature Ventricular Contraction",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Palpitation",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Loss Of Hearing",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Malaria",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    }
+  ],
+  "pyrexia": [
+    {
+      "disease": "Hyperthyroidism",
+      "cooccurrence_count": 1,
+      "pmi": 8.216,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Myositis",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Arthritis",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Skin Rash",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Graves' Disease",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Anca Positive Vasculitis",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Vasculitis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Antineutrophil Cytoplasmic Antibody (Anca)--Associated Vasculitis",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "throat pain": [
+    {
+      "disease": "Spasmodic Dysphonia",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Paralysis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Adsd",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Adductor Spasmodic Dysphonia",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    }
+  ],
+  "generalized weakness": [
+    {
+      "disease": "Acute Renal Failure",
+      "cooccurrence_count": 1,
+      "pmi": 6.177,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Interstitial Nephritis",
+      "cooccurrence_count": 1,
+      "pmi": 8.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cardiac Arrest",
+      "cooccurrence_count": 1,
+      "pmi": 7.801,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Pneumonia",
+      "cooccurrence_count": 1,
+      "pmi": 9.064,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Bacteremia",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Meningitis",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "anosmia": [
+    {
+      "disease": "Aniridia",
+      "cooccurrence_count": 1,
+      "pmi": 7.138,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Iris Hypoplasia",
+      "cooccurrence_count": 1,
+      "pmi": 9.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Autosomal Dominant Congenital Disorder Of The Eye",
+      "cooccurrence_count": 1,
+      "pmi": 11.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Haploinsufficiency Of Pax6",
+      "cooccurrence_count": 1,
+      "pmi": 10.386,
+      "confidence": 0.69
+    },
+    {
+      "disease": "Cataracts",
+      "cooccurrence_count": 1,
+      "pmi": 8.579,
+      "confidence": 0.69
+    }
+  ],
+  "joint pain": [
+    {
+      "disease": "Alkaptonuria",
+      "cooccurrence_count": 1,
+      "pmi": 8.801,
+      "confidence": 0.69
+    }
+  ],
+  "persistent cough": [
+    {
+      "disease": "Respiratory Tract Infection",
+      "cooccurrence_count": 35,
+      "pmi": 2.4,
+      "confidence": 0.85
+    },
+    {
+      "disease": "Pneumonia",
+      "cooccurrence_count": 30,
+      "pmi": 2.25,
+      "confidence": 0.82
+    },
+    {
+      "disease": "Chronic Bronchitis",
+      "cooccurrence_count": 26,
+      "pmi": 2.1,
+      "confidence": 0.79
+    },
+    {
+      "disease": "Asthma",
+      "cooccurrence_count": 22,
+      "pmi": 1.9,
+      "confidence": 0.76
+    }
+  ]
+}

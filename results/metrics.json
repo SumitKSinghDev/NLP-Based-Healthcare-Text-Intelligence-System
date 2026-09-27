@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "title": "Quantitative Evaluation Metrics",
+    "group": "Group 6",
+    "evaluated_at": "2026-09-27 18:57:39",
+    "duration_seconds": 8.15
+  },
+  "summary_kpis": {
+    "precision": 0.8067,
+    "recall": 0.6531,
+    "f1_score": 0.7218,
+    "source": "BC5CDR Test Set (Hybrid Gazetteer/Rule-Based Biomedical NER)"
+  },
+  "ner_bc5cdr": {
+    "evaluation_source": "Held-out BC5CDR Test Set (Exact character span + entity-type match)",
+    "test_docs_evaluated": 500,
+    "hybrid_gazetteer_ner": {
+      "CHEMICAL": {
+        "precision": 0.868,
+        "recall": 0.6103,
+        "f1": 0.7167,
+        "tp": 3276,
+        "fp": 498,
+        "fn": 2092
+      },
+      "DISEASE": {
+        "precision": 0.7504,
+        "recall": 0.7057,
+        "f1": 0.7273,
+        "tp": 3081,
+        "fp": 1025,
+        "fn": 1285
+      },
+      "OVERALL": {
+        "precision": 0.8067,
+        "recall": 0.6531,
+        "f1": 0.7218,
+        "tp": 6357,
+        "fp": 1523,
+        "fn": 3377
+      }
+    },
+    "dictionary_baseline": {
+      "CHEMICAL": {
+        "precision": 0.7929,
+        "recall": 0.5317,
+        "f1": 0.6365,
+        "tp": 2853,
+        "fp": 745,
+        "fn": 2513
+      },
+      "DISEASE": {
+        "precision": 0.4623,
+        "recall": 0.6379,
+        "f1": 0.5361,
+        "tp": 2785,
+        "fp": 3239,
+        "fn": 1581
+      },
+      "OVERALL": {
+        "precision": 0.5859,
+        "recall": 0.5793,
+        "f1": 0.5826,
+        "tp": 5638,
+        "fp": 3984,
+        "fn": 4094
+      }
+    }
+  },
+  "ner_ncbi": {
+    "evaluation_source": "NCBI Disease Test Set (Disease mention extraction evaluation)",
+    "test_docs_evaluated": 100,
+    "precision": 0.7296,
+    "recall": 0.6438,
+    "f1": 0.684,
+    "tp": 618,
+    "fp": 229,
+    "fn": 342
+  },
+  "negation": {
+    "evaluation_source": "Custom 30-case negation evaluation set (n = 30 cases)",
+    "sample_count": 30,
+    "negex_engine": {
+      "accuracy": 0.9667,
+      "precision": 0.9524,
+      "recall": 1.0,
+      "f1": 0.9756,
+      "tp": 20,
+      "fp": 1,
+      "fn": 0,
+      "tn": 9
+    },
+    "keyword_baseline": {
+      "accuracy": 0.7,
+      "precision": 0.7895,
+      "recall": 0.75,
+      "f1": 0.7692,
+      "tp": 15,
+      "fp": 4,
+      "fn": 5,
+      "tn": 6
+    }
+  },
+  "retrieval": {
+    "evaluation_source": "Custom 5-query retrieval evaluation (n = 5 queries, keyword relevance)",
+    "query_count": 5,
+    "bm25": {
+      "precision_at_1": 0.6,
+      "precision_at_3": 0.6667,
+      "precision_at_5": 0.6,
+      "mrr": 0.8
+    },
+    "tfidf": {
+      "precision_at_1": 0.6,
+      "precision_at_3": 0.5333,
+      "precision_at_5": 0.6,
+      "mrr": 0.75
+    }
+  },
+  "summarization": {
+    "evaluation_source": "Constructed-reference ROUGE evaluation (reference = title + first sentence; not human-written clinical summary)",
+    "samples_evaluated": 50,
+    "rouge_1": 0.3608,
+    "rouge_2": 0.2435,
+    "rouge_l": 0.3317
+  },
+  "relation_extraction": {
+    "status": "Implemented dataset support; quantitative relation evaluation not yet performed.",
+    "dataset_support": "BioRED & BC5CDR CID"
+  },
+  "task_performance_chart_data": [
+    {
+      "task": "NER (BC5CDR Test)",
+      "precision": 0.8067,
+      "recall": 0.6531,
+      "f1": 0.7218
+    },
+    {
+      "task": "Disease Mentions (NCBI Test)",
+      "precision": 0.7296,
+      "recall": 0.6438,
+      "f1": 0.684
+    },
+    {
+      "task": "Negation (Custom n=30)",
+      "precision": 0.9524,
+      "recall": 1.0,
+      "f1": 0.9756
+    }
+  ]
+}

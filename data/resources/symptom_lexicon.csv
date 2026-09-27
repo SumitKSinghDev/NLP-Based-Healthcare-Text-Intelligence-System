@@ -1,0 +1,94 @@
+symptom,category,canonical_name,severity_weight
+fever,General,Fever,1.0
+high fever,General,Fever,1.2
+low grade fever,General,Fever,0.8
+pyrexia,General,Fever,1.0
+cough,Respiratory,Cough,1.0
+persistent cough,Respiratory,Cough,1.2
+dry cough,Respiratory,Cough,1.0
+productive cough,Respiratory,Cough,1.1
+chronic cough,Respiratory,Cough,1.2
+headache,Neurological,Headache,1.0
+severe headache,Neurological,Headache,1.3
+migraine,Neurological,Headache,1.2
+fatigue,General,Fatigue,0.9
+lethargy,General,Fatigue,1.0
+malaise,General,Malaise,0.9
+nausea,Gastrointestinal,Nausea,0.9
+vomiting,Gastrointestinal,Vomiting,1.1
+dizziness,Neurological,Dizziness,1.0
+lightheadedness,Neurological,Dizziness,0.9
+vertigo,Neurological,Dizziness,1.1
+chest pain,Cardiovascular,Chest Pain,1.5
+severe chest pain,Cardiovascular,Chest Pain,1.8
+angina,Cardiovascular,Chest Pain,1.5
+substernal chest pain,Cardiovascular,Chest Pain,1.6
+abdominal pain,Gastrointestinal,Abdominal Pain,1.2
+stomach ache,Gastrointestinal,Abdominal Pain,1.0
+cramping,Gastrointestinal,Abdominal Pain,0.9
+shortness of breath,Respiratory,Dyspnea,1.4
+dyspnea,Respiratory,Dyspnea,1.4
+breathlessness,Respiratory,Dyspnea,1.3
+difficulty breathing,Respiratory,Dyspnea,1.5
+wheezing,Respiratory,Wheezing,1.2
+sore throat,Respiratory,Pharyngitis,0.9
+throat pain,Respiratory,Pharyngitis,0.9
+pharyngitis,Respiratory,Pharyngitis,1.0
+body ache,Musculoskeletal,Myalgia,1.0
+myalgia,Musculoskeletal,Myalgia,1.0
+muscle pain,Musculoskeletal,Myalgia,1.0
+arthralgia,Musculoskeletal,Arthralgia,1.0
+joint pain,Musculoskeletal,Arthralgia,1.0
+weakness,General,Asthenia,1.0
+generalized weakness,General,Asthenia,1.1
+asthenia,General,Asthenia,1.0
+pain,General,Pain,1.0
+severe pain,General,Pain,1.3
+rash,Dermatological,Rash,0.9
+skin rash,Dermatological,Rash,0.9
+erythema,Dermatological,Erythema,1.0
+pruritus,Dermatological,Pruritus,0.8
+itching,Dermatological,Pruritus,0.8
+chills,General,Chills,0.9
+shivering,General,Chills,0.9
+rigors,General,Chills,1.1
+diarrhea,Gastrointestinal,Diarrhea,1.1
+constipation,Gastrointestinal,Constipation,0.8
+palpitations,Cardiovascular,Palpitations,1.1
+tachycardia,Cardiovascular,Tachycardia,1.2
+hypotension,Cardiovascular,Hypotension,1.2
+hypertension,Cardiovascular,Hypertension,1.2
+loss of appetite,Gastrointestinal,Anorexia,0.8
+anorexia,Gastrointestinal,Anorexia,0.9
+weight loss,General,Weight Loss,1.0
+weight gain,General,Weight Gain,0.8
+edema,Cardiovascular,Edema,1.1
+swelling,General,Edema,1.0
+peripheral edema,Cardiovascular,Edema,1.2
+insomnia,Neurological,Insomnia,0.8
+somnolence,Neurological,Somnolence,0.9
+confusion,Neurological,Confusion,1.4
+altered mental status,Neurological,Encephalopathy,1.5
+syncope,Neurological,Syncope,1.5
+fainting,Neurological,Syncope,1.4
+sweating,General,Diaphoresis,0.8
+night sweats,General,Diaphoresis,1.0
+diaphoresis,General,Diaphoresis,1.0
+stiffness,Musculoskeletal,Stiffness,0.8
+numbness,Neurological,Paresthesia,1.0
+tingling,Neurological,Paresthesia,0.9
+paresthesia,Neurological,Paresthesia,1.0
+hemoptysis,Respiratory,Hemoptysis,1.6
+hematuria,Renal,Hematuria,1.4
+dysuria,Renal,Dysuria,1.0
+blurred vision,Ophthalmological,Vision Impairment,1.1
+tremor,Neurological,Tremor,1.0
+seizure,Neurological,Seizure,1.8
+convulsions,Neurological,Seizure,1.8
+nasal congestion,Respiratory,Rhinorrhea,0.7
+rhinorrhea,Respiratory,Rhinorrhea,0.7
+runny nose,Respiratory,Rhinorrhea,0.7
+loss of smell,Neurological,Anosmia,1.0
+anosmia,Neurological,Anosmia,1.0
+loss of taste,Neurological,Ageusia,1.0
+ageusia,Neurological,Ageusia,1.0

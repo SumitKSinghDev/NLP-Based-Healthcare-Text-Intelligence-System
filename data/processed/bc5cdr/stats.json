@@ -1,0 +1,74 @@
+{
+  "train": {
+    "num_documents": 500,
+    "num_sentences": 4564,
+    "num_entities": 9296,
+    "entity_types": {
+      "Chemical": 5201,
+      "Disease": 4095
+    },
+    "num_relations": 1038,
+    "example_entity": {
+      "pmid": "227508",
+      "start": 0,
+      "end": 8,
+      "text": "Naloxone",
+      "type": "Chemical",
+      "mesh_id": "D009270"
+    },
+    "example_relation": {
+      "pmid": "227508",
+      "type": "Chemical-Induced-Disease",
+      "chemical_mesh": "D008750",
+      "disease_mesh": "D007022"
+    }
+  },
+  "dev": {
+    "num_documents": 500,
+    "num_sentences": 4564,
+    "num_entities": 9502,
+    "entity_types": {
+      "Disease": 4157,
+      "Chemical": 5345
+    },
+    "num_relations": 1012,
+    "example_entity": {
+      "pmid": "6794356",
+      "start": 0,
+      "end": 29,
+      "text": "Tricuspid valve regurgitation",
+      "type": "Disease",
+      "mesh_id": "D014262"
+    },
+    "example_relation": {
+      "pmid": "6794356",
+      "type": "Chemical-Induced-Disease",
+      "chemical_mesh": "D016651",
+      "disease_mesh": "D003490"
+    }
+  },
+  "test": {
+    "num_documents": 500,
+    "num_sentences": 4797,
+    "num_entities": 9752,
+    "entity_types": {
+      "Chemical": 5381,
+      "Disease": 4371
+    },
+    "num_relations": 1066,
+    "example_entity": {
+      "pmid": "8701013",
+      "start": 0,
+      "end": 10,
+      "text": "Famotidine",
+      "type": "Chemical",
+      "mesh_id": "D015738"
+    },
+    "example_relation": {
+      "pmid": "8701013",
+      "type": "Chemical-Induced-Disease",
+      "chemical_mesh": "D015738",
+      "disease_mesh": "D003693"
+    }
+  }
+}
