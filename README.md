@@ -1,3 +1,13 @@
+---
+title: Healthcare NLP Text Intelligence
+emoji: 🏥
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 8000
+pinned: false
+---
+
 # NLP-Based Healthcare Text Intelligence System for Medical Entity Extraction, Symptom Analysis and Clinical Information Retrieval
 
 **Academic Case Study — Group 6**  
